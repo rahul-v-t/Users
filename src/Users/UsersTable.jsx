@@ -39,6 +39,11 @@ const UserTable = () => {
         };
       },
     },
+    {
+      title: "Department",
+      dataIndex: "department",
+      key: "mobile",
+    },
   ];
 
   return (
